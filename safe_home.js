@@ -21,12 +21,12 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*6)+ 1);
 var xxx=null;
-if(x=="1"){xxx="student-loan-safe-loan-magician.html"}
-if(x=="2"){xxx="tips-for-locking-in-best-home-mortgage.html"}
-if(x=="3"){xxx="are-you-paying-too-much-on-your-bill.html"}
-if(x=="4"){xxx="5-financial-investments-to-take-this-year.html"}
-if(x=="5"){xxx="look-for-when-youre-seeking-a-lawyer.html"}
-if(x=="6"){xxx="how-to-find-lawyer-useful-tips.html"}a_to_ve[i].href="https://safe.hanyapedia.com/2019/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="behind-car-photography.html"}
+if(x=="2"){xxx="take-better-photographs.html"}
+if(x=="3"){xxx="make-stunning-photographs.html"}
+if(x=="4"){xxx="colors-for-photography.html"}
+if(x=="5"){xxx="course-of-photography.html"}
+if(x=="6"){xxx="pre-wedding-photography.html"}a_to_ve[i].href="https://safe.hanyapedia.com/2019/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
